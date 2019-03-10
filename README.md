@@ -10,3 +10,9 @@ The following modules must be imported:
 - collections
 - re
 - nltk
+
+The stopwords must also be imported from nltk.corpus.
+
+The ff. is the synatx to run the code from a terminal command prompt (Linux, MacOS, Unix) or command prompt (Windows):
+
+python <name_of_file>.py
