@@ -7,4 +7,6 @@ environment within a Python 3.6.5 Anaconda version. The code was originally in 2
 support the latest version.
 
 The following modules must be imported:
-
+- collections
+- re
+- nltk
